@@ -1,0 +1,9 @@
+In this practical we will be creating a telegram bot using python and the telegram package
+
+steps:
+1.go to botfather in telegram app/web and create a bot.
+2. then from it you will get a unique token id.
+3.then add itb to your code as given in prac_1.py.
+4. then you will get an output in python idle :
+{'id': 1125971838, 'is_bot': True, 'first_name': 'Dupline', 'username': 'Raymazbot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+5.then go to your telegram app and then search for your bot and message something you will get a reply saing "you said" watever you said.
